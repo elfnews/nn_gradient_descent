@@ -1,2 +1,2 @@
-# nn_gradient_descent
+# Neural Network Gradient Descent
 Gradient Descent in Neural Networks
